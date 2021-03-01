@@ -94,13 +94,11 @@ label{
   display: inline-block;
 }
 input[type=text] {
-  width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
 }
 select {
-  width: 50%;
   padding: 16px 20px;
   border-radius: 4px;
 }
